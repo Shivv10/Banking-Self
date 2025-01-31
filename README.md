@@ -65,7 +65,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/banking.git
+git clone https://github.com/Shivv10/Banking-Self.git
 cd banking
 ```
 
@@ -1379,7 +1379,7 @@ export default PaymentTransferForm;
 </details>
 
 <details>
-<summary><code>Missing from the video (top right on the transaction list page) BankDropdown.tsx</code></summary>
+<summary><code>BankDropdown.tsx</code></summary>
 
 ```typescript
 "use client";
